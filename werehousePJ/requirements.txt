@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+clickhouse-connect
+groq
+openpyxl
