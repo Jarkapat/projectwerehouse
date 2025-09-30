@@ -1,5 +1,0 @@
-student_id,course_id,date_key,assessment_type,score,max_score
-S001,MATH501,20250130,exam,88,100
-S001,ENG511,20250130,exam,82,100
-S002,MATH501,20250130,exam,75,100
-S003,ENG511,20250130,exam,91,100
